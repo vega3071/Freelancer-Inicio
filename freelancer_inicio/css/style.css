@@ -223,7 +223,7 @@ h1,h2,h3 {
     .contenedor-campos {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: auto auto 5rem;
+        grid-template-rows: auto auto auto;
         column-gap: 1rem;
     }     
     .campo:nth-child(3),
