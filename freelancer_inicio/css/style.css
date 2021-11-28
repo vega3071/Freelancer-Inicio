@@ -249,6 +249,8 @@ h1,h2,h3 {
 
 .campo textarea {
     height: 15rem;
+    grid-column: 1 / 3;
+    grid-row: 3 / 4;
 }
 
 .input-text {
