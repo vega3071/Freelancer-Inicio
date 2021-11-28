@@ -231,7 +231,7 @@ h1,h2,h3 {
         grid-column: 1/3;
     }
 }
-.alinear-derecha {
+.alinear-derecha .boton {
     grid-column: 2 / 3;
     align-content: right;
 }
