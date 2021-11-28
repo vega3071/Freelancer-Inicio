@@ -233,7 +233,7 @@ h1,h2,h3 {
 }
 .alinear-derecha .boton {
     grid-column: 2 / 3;
-    align-content: right;
+    justify-content: right;
 }
 
 .campo {
