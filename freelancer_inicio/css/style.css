@@ -233,7 +233,7 @@ h1,h2,h3 {
 }
 .alinear-derecha {
     grid-column: 2 / 3;
-    justify-items: right;
+    align-items: right;
 }
 
 .campo {
