@@ -103,7 +103,7 @@ h1,h2,h3 {
 }
 
 .alinear-izquierda {
-    justify-content: flex-start;
+    justify-content: flex-end;
 }
 
 /* Navegacion Principal */
