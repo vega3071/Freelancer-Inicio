@@ -102,7 +102,7 @@ h1,h2,h3 {
     display: flex;
 }
 
-.alinear-izquierda {
+.alinear-derecha {
     justify-content: flex-end;
 }
 
